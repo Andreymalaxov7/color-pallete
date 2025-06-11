@@ -55,7 +55,7 @@ form {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-image: url(../public/arrow.svg);
+  background-image: url(arrow.svg);
   background-repeat: no-repeat;
   background-position: right 10px center;
   background-size: 12px;
